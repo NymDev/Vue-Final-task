@@ -5,10 +5,10 @@ import { ref } from 'vue'
 
 const todos = ref([
   { id: 1, content: '把冰箱發霉的檸檬拿去丟', status: false },
-  { id: 3, content: '把冰箱發霉的檸檬拿去丟', status: false },
-  { id: 4, content: '把冰箱發霉的檸檬拿去丟', status: false },
-  { id: 5, content: '把冰箱發霉的檸檬拿去丟', status: false },
-  { id: 6, content: '把冰箱發霉的檸檬拿去丟', status: false },
+  { id: 3, content: '把冰箱發霉的蘋果拿去丟', status: false },
+  { id: 4, content: '把冰箱發霉的鳳梨拿去丟', status: false },
+  { id: 5, content: '把冰箱發霉的西瓜拿去丟', status: false },
+  { id: 6, content: '把冰箱發霉的空心菜拿去丟', status: false },
   { id: 2, content: '打電話叫媽媽匯款給我', status: true },
 ])
 
